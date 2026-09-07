@@ -8,7 +8,7 @@ const products = [
         id: 1,
         name: "Laptop",
         category: "electronics",
-        price: 55000,
+        price: 100000,
         icon: "💻"
     },
 
